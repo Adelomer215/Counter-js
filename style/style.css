@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+}
+header {
+  width: 100vw;
+}
+.btn {
+  transition: all 0.5s ease;
+}
+.btn:hover {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+/*# sourceMappingURL=style.css.map */
